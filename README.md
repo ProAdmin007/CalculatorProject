@@ -1,10 +1,7 @@
 # CalculatorProject
-Learning some Python :)
+Learning some Python :) ![alt text](https://github.com/ProAdmin007/CalculatorProject/blob/main/favicon.ico "Calc.exe")
 
-Inline-style: 
-![alt text](https://github.com/ProAdmin007/CalculatorProject/blob/main/favicon.ico "Calc.exe")
-
-## TO DO
+### TO DO
 1. Ifjes maken
 2. Zorgen dat tekst klopt
 3. Beetje Markdown leren
