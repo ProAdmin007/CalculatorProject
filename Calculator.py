@@ -3,8 +3,9 @@
 print("----------------------")
 print("THE BEST CALCULATOR!!!")
 print("----------------------")
+print("Wat voor berekening wil je doen? + - * / ")
 
-berekening = input("Wat voor berekening wil je doen? ")
+berekening = input("Vertel het eens: ")
 
 plus = "+"
 minn = "-"
@@ -30,9 +31,3 @@ elif berekening == gedeeld:
     print("Uitkomst gedeeld: ", deeling)
 else:
     print("Dat is niet een van de onderstuunde karakters: + - * /")
-
-#print gedeelte
-#    print("Optelling = ", optelling)
-#    print("Min = ", min)
-#    print("Keer = ", keer)
-#    print("Deeling = ", deeling)
