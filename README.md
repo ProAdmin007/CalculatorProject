@@ -1,6 +1,8 @@
 # CalculatorProject
 Learning some Python :)
-[logo]: https://github.com/ProAdmin007/CalculatorProject/blob/main/favicon.ico "Calc.exe"
+
+Inline-style: 
+![alt text](https://github.com/ProAdmin007/CalculatorProject/blob/main/favicon.ico "Calc.exe")
 
 ## TO DO
 1. Ifjes maken
